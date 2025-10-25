@@ -4,21 +4,45 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently working on **[Your Project Name]**
-- 🌱 I’m currently learning **TypeScript, FastAPI, and Electron**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Node.js, or Databases**
-- 📫 Reach me at: **youremail@example.com**
-
+🔭 Passionate about building scalable backend systems and full-stack applications  
+🌱 Currently exploring Cloud Computing & AI + MachineLearning  
+📐 Experienced in Java, Spring Boot, Node.js, and React  
+🎯 Aspiring Backend Engineer eager to contribute to impactful open-source projects  
+💡 Motto: "Solve real-life problems with clean, elegant code.
 ---
 
-### 🧰 Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,java,spring,python,git,html,css,tailwind,mysql,sqlite,vscode" />
+#### 🧰Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?logo=cplusplus&logoColor=white" />
 </p>
 
----
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+</p>
 
-### ⚡ Fun fact
-> “Clean code always wins — even when no one is watching.”
+** Database **
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,python,git,typescript,html,css,tailwind,mysql,sqlite,vscode" />
+</p>
+---
+** 
+** 📫 Connect with me: **
+🌍 Portfolio: [https://manasseh-portifolio.vercel.app/)  
+📧 Email: Mbonimana12@gmail.com  
+  Call: +250 787 688 197
+📍 Location: Kigali, Rwanda  
+
+
+
+### > ⭐️ Code | Learn | Share | Repeat ⭐️.
