@@ -42,7 +42,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" />
 </p>
-### Design Skills & Tools
+
+###  Designing Skills & Tools  
 <p align="left">  UI/UX Design & Graphics<br/><br/> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" /> </p>
 
 ### Data/AI / API Layer
