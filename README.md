@@ -120,3 +120,9 @@
 
 
 <h3 align="center">✨ Thanks for visiting! Keep coding & keep improving. 🚀</h3>
+
+
+## Activity Overview
+
+![Manasseh's GitHub Activity](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+
