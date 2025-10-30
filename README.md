@@ -87,11 +87,11 @@
 
 ---
 
-###  GitHub Stats  
+### GitHub Stats
 <p align="center">
-  
-(https://github-readme-stats.vercel.app/api?username=Mbonimana&show_icons=true&count_private=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Mbonimana&show_icons=true&count_private=true&theme=radical" alt="Manasseh's GitHub Stats" />
 </p>
+
 
 ---
 ---
