@@ -124,5 +124,5 @@
 
 ## Activity Overview
 
-![Manasseh's GitHub Activity](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+![Manasseh's GitHub Activity](https://github-readme-stats.vercel.app/api?username=Mbonimana&show_icons=true&count_private=true&theme=radical)
 
