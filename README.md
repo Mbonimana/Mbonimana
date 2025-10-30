@@ -89,8 +89,8 @@
 
 ###  GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mbonimana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mbonimana&theme=tokyonight" alt="GitHub Streak" />
+  
+(https://github-readme-stats.vercel.app/api?username=Mbonimana&show_icons=true&count_private=true&theme=radical)
 </p>
 
 ---
@@ -122,7 +122,5 @@
 <h3 align="center">✨ Thanks for visiting! Keep coding & keep improving. 🚀</h3>
 
 
-## Activity Overview
 
-![Manasseh's GitHub Activity](https://github-readme-stats.vercel.app/api?username=Mbonimana&show_icons=true&count_private=true&theme=radical)
 
