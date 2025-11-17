@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#06B6D4;">Manasseh MBONIMANA</span></h1>
-<h3 align="center">💻 Full Stack Developer | Passionate Problem Solver</h3>
+<img src="https://profile-counter.glitch.me/Mbonimana/count.svg" />
+<h3 align="center">💻 Junior Full Stack Developer | Passionate Problem Solver</h3>
 
 ---
 
 ### 🧠 About Me  
 🔭 I’m passionate about building **scalable backend systems** and **full-stack applications**  
-🌱 Currently exploring **Cloud Computing**, **AI**, and **Machine Learning**  
+🌱 Currently exploring **Mobile Development** **Cloud Computing**, **AI**, and **Machine Learning**  
 📐 Skilled in **TypeScript**, **Node.js**, and **React**  
 🎯 Aspiring **Backend Developer** eager to contribute to **impactful open-source projects**  
 💡 *Motto:* **"From front to back, I’ve got the stack."**
@@ -17,7 +18,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" />
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
