@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#06B6D4;">Manasseh MBONIMANA</span></h1>
-<img src="https://profile-counter.glitch.me/Mbonimana/count.svg" />
+![](https://komarev.com/ghpvc/?username=Mbonimana&color=blue)
 <h3 align="center">💻 Junior Full Stack Developer | Passionate Problem Solver</h3>
 
 ---
