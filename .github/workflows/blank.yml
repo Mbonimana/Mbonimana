@@ -1,0 +1,27 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    - cron: "55 21 * * *"   # Runs every day at 23:55 Rwanda Time (UTC+2)
+  workflow_dispatch:
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update daily log
+        run: |
+          echo "Updated at: $(date -u)" >> daily-log.txt
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          
+          git add daily-log.txt
+          git commit -m "Daily commit at Rwanda 23:55"
+          git push
