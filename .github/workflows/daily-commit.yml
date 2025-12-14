@@ -1,31 +1,38 @@
-name: Daily Auto Commit (Test at 00:10 Rwanda Time)
+name: Daily Auto Commit (Test 00:22 Rwanda)
 
 on:
   schedule:
-    - cron: "10 22 * * *"   # 00:10 Rwanda Time (UTC+2) - TEMP TEST
+    - cron: "22 22 * * *"   # 00:22 Rwanda Time (UTC+2)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  daily-commit:
+  auto-commit:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update daily log
+      - name: Create or update daily file
         run: |
-          echo "Updated at: $(date -u)" >> daily-log.txt
+          if [ ! -f daily-log.txt ]; then
+            echo "Daily log initialized" > daily-log.txt
+          fi
+          echo "Updated at $(date -u)" >> daily-log.txt
 
-      - name: Commit if changes exist
+      - name: Commit and push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
-          if [[ -n $(git status --porcelain) ]]; then
-            git add daily-log.txt
-            git commit -m "Daily auto commit (test run)"
-            git push
+          git add daily-log.txt
+
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
           else
-            echo "No changes to commit."
+            git commit -m "Daily automated update"
+            git push
           fi
