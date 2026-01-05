@@ -9,7 +9,7 @@
 🔭 I’m passionate about building **scalable backend systems** and **full-stack applications**  
 🌱 Currently exploring **Mobile Development** **Cloud Computing**, **AI**, and **Machine Learning**  
 📐 Skilled in **TypeScript**, **Node.js**, and **React**  
-🎯 Aspiring **Backend Developer** eager to contribute to **impactful open-source projects**  
+🎯 Aspiring **Frontend & Backend Developer** eager to contribute to **impactful open-source projects**  
 💡 *Motto:* **"From front to back, I’ve got the stack."**
 
 ---
@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
 
 </p>
 
@@ -32,9 +31,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  
 </p>
 
 ###  Databases & Tools  
@@ -42,7 +41,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white" />
+  
 </p>
 
 ###  Designing Skills & Tools  
