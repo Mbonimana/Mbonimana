@@ -1,8 +1,8 @@
-name: Daily Auto Commit (Test 00:22 Rwanda)
+name: Daily Auto Commit (09:32 Rwanda)
 
 on:
   schedule:
-    - cron: "22 22 * * *"   # 00:22 Rwanda Time (UTC+2)
+    - cron: "32 7 * * *"   # 09:32 Rwanda Time (UTC+2)
   workflow_dispatch:
 
 permissions:
